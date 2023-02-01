@@ -1,4 +1,5 @@
 # Projeto-Ana-Bella
-Exercício do curso de desenvolvimento web da Ûdemi. Site Ana Bella
 
-Este é um projeto simples para um site simples de uma modelo fictícia. Nada de especial, porém, muito tempo e estudo dedicado.
+Este é um projeto que aprendi a fazer no curso do professor Jamilton Damasceno: Desenvolvimento Web completo. 
+
+É um projeto de nível iniciante porém é um grande passo na minha jornada!
