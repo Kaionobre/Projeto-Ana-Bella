@@ -1,6 +1,6 @@
 # Projeto-Ana-Bella
 
-Este é um dos projetos que aprendi no curso do professor Jamilton Damasceno: Desenvolvimento Web completo. Embora seja muito simples tive bastante dificuldade em centralizar a div e outras questões como por exemplo a responsividade.
+Este é um dos projetos que aprendi no curso do professor Jamilton Damasceno na udemy: Desenvolvimento Web completo. Embora seja muito simples tive bastante dificuldade em centralizar a div e outras questões como por exemplo a responsividade.
 
 É um projeto de nível iniciante porém é um grande passo na minha jornada!
 
